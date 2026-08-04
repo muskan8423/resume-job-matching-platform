@@ -1,0 +1,11 @@
+id,name,skills,experience,education,job_role
+1,Rahul,"Python, Pandas, NumPy",2,BTech,Data Analyst
+2,Priya,"Java, Spring Boot, MySQL",3,BTech,Java Developer
+3,Aman,"Python, Machine Learning, Scikit-learn",1,BTech,ML Engineer
+4,Sneha,"HTML, CSS, JavaScript, React",2,BTech,Frontend Developer
+5,Arjun,"Python, SQL, Excel",3,MBA,Data Analyst
+6,Neha,"Java, SQL, Spring Boot",2,BTech,Backend Developer
+7,Ravi,"Python, TensorFlow, Machine Learning",2,BTech,ML Engineer
+8,Anjali,"HTML, CSS, JavaScript",1,BTech,Frontend Developer
+9,Vikram,"Python, SQL, Power BI",4,BTech,Data Analyst
+10,Pooja,"Java, MySQL, Hibernate",3,BTech,Java Developer
